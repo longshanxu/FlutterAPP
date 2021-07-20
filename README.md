@@ -1,15 +1,11 @@
 <!--
  * @Author: Json.Xu
  * @Date: 2021-07-13 15:28:38
- * @LastEditTime: 2021-07-14 19:55:44
+ * @LastEditTime: 2021-07-21 00:30:27
  * @LastEditors: Json.Xu
  * @Description: 
- * @FilePath: \moch_flutter_app\README.md
+ * @FilePath: \FlutterAPP\README.md
 -->
-# moch_flutter_app
-
-梯控业主端
-
 ## Getting Started
 
 1.Get Packages
